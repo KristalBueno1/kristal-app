@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KristalBueno1/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/KristalBueno1/static/js/main.df7c447c.chunk.js",
+    "main.js.map": "/KristalBueno1/static/js/main.df7c447c.chunk.js.map",
+    "runtime-main.js": "/KristalBueno1/static/js/runtime-main.3e46d29d.js",
+    "runtime-main.js.map": "/KristalBueno1/static/js/runtime-main.3e46d29d.js.map",
+    "static/js/2.a627cca8.chunk.js": "/KristalBueno1/static/js/2.a627cca8.chunk.js",
+    "static/js/2.a627cca8.chunk.js.map": "/KristalBueno1/static/js/2.a627cca8.chunk.js.map",
+    "static/js/3.94177a2d.chunk.js": "/KristalBueno1/static/js/3.94177a2d.chunk.js",
+    "static/js/3.94177a2d.chunk.js.map": "/KristalBueno1/static/js/3.94177a2d.chunk.js.map",
+    "index.html": "/KristalBueno1/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/KristalBueno1/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a627cca8.chunk.js.LICENSE.txt": "/KristalBueno1/static/js/2.a627cca8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/KristalBueno1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e46d29d.js",
+    "static/js/2.a627cca8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.df7c447c.chunk.js"
+  ]
+}
